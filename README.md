@@ -6,7 +6,7 @@
 
 ### How it works
 
-- **Green/t**: Represents for trees.
+- **Green/t**: Represents trees.
 - **Red/b**: Represents fire.
 - **Black/x**: Represents an empty square.
 
